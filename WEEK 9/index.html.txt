@@ -1,0 +1,113 @@
+<html>
+<head>
+<title> HTML TABLE </title>
+<<body style="background-color: #FAA0A0;">
+
+<br>
+<center>
+<img src="ASSESTS/IMAGE/IMAGE_1.jpg "width="20%">
+</center> 
+<br><br>
+
+
+<center>
+<table border= "1" width="80%" cellpadding=10px">
+
+<tr bgcolor="#FFC0CB">
+<td rowspan="7" width="250px" align="center"> MY FAMILY </td>
+
+<td> <center> NAME </center>  </td> 
+<td> <center> RELATIONSHIP </center></td>
+<td>  </td>
+</tr>
+
+<tr> 
+
+<td> NOH BIN DOLLAH   </td>
+<td> <center> Father </center> </td>
+<td> </td>
+</tr>
+
+<tr>
+
+<td> ROMLAH BINTI ABDULLAH </td>
+<td> <center> Mother </center> </td>
+<td> </td>
+</tr>
+
+<tr> 
+
+<td> NURAIN RAIMAH BINTI NOH </td>
+<td> <center> Sister </center> </td>
+<td> </td>
+</tr>
+
+<tr>
+ 
+<td> MUHAMMAD SHAHRUL IEZHAM BIN NOH </td>
+<td> <center> Brother </center> </td>
+<td> </td>
+</tr>
+
+<tr> 
+
+<td> NUR AZATUL AMIERA BINTI NOH </td>
+<td> <center> Sister </center> </td>
+<td> </td>
+</tr>
+
+<tr> 
+
+<td> NUR SHIERA SHAMIMI BINTI NOH  </td>
+<td> <center> Me </center> </td>
+<td> </td>
+</tr>
+
+<tr> 
+
+<td>  </td>
+<td> MUHAMMAD AMIERUL IEZWAN BIN NOH </td>
+<td> <center> Brother </center> </td>
+<td> </td>
+</tr>
+</table>
+</center>
+
+<br><br><br><br><br><br>
+
+<center>
+<table border= "1" width="80%" cellpadding=10px">
+
+<!---COLSPAN--->
+
+
+<tr bgcolor="#FFC0CB"> 
+<td rowspan="3" width="250px" align="center"> MY FRIENDS </td>
+<td> <center> NAME </center>  </td>
+<td> <center> SHORT NAME </center> </td>
+<td> </td>
+</tr>
+
+
+<tr> 
+
+<td> AINNUR SYAZWANA BINTI MUHAMMAD  </td>
+<td> <center> wanaaa </center> </td>
+<td> </td>
+</tr>
+
+<tr> 
+
+<td> NUR FAQIHAH BINTI ASRUL AFENDI  </td>
+<td> <center> qihah </center> </td>
+<td>  </td>
+</tr>
+
+
+</table>
+
+<br><br><br><br><br><br>
+
+</body>
+</head>
+</html>
